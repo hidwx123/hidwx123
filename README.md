@@ -61,27 +61,6 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 （9）Ray：https://100km.top/0
 
-4. 随机轮换壁纸：
-
-（1）https://jianbian.chuqiuyu.workers.dev 自制极简渐变壁纸
-
-（2）http://www.kf666888.cn/api/tvbox/img
-
-（3）https://picsum.photos/1280/720/?blur=10
-
-（4）http://刚刚.live/图 
-
-（5）http://饭.eu.org/深色壁纸/api.php,
-
-（6）https://www.dmoe.cc/random.php
-
-（7）https://api.btstu.cn/sjbz/zsy.php
-
-（8）https://api.btstu.cn/sjbz/?lx=dongman
-
-（9）http://api.btstu.cn/sjbz/?lx=meizi
-
-（10）http://api.btstu.cn/sjbz/?lx=suiji
 
 （11）https://pictures.catvod.eu.org/
 
